@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Yinka Badmus
 - 👀 I’m interested in artificial intelligence and software engineering
-- 🌱 I’m currently in a Bachelor's of Science in Computer Science program at Drexel University
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I recently graduated with a Bachelor's of Science in Computer Science from Drexel University
+- 📫 How to reach me: mayorbadmus@gmail.com
 
 <!---
 Yinka777/Yinka777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
